@@ -1,4 +1,4 @@
-# python-naive-bayes
+# python-naive-bayes-classifier
 
 #### Files
 
